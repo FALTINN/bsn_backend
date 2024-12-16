@@ -1,0 +1,5 @@
+static/dist
+BSN_app/__pycache__
+BSN_app/migrations/__pycache__
+BSN_project/__pycache__
+db.sqlite3
